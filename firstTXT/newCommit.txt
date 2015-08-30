@@ -1,1 +1,1 @@
-hi First staged new commit
+First staged new commit
